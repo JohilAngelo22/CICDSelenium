@@ -2,7 +2,7 @@
 using Allure.NUnit;
 using Allure.NUnit.Attributes;
 using NUnit.Framework;
-using UICore;
+using UIRegPages;
 
 namespace CICDSelenium
 {
