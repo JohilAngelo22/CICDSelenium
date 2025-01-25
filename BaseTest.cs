@@ -13,7 +13,7 @@ namespace CICDSelenium
 
         public BaseTest()
         {
-            string browser = "chrome"; // you can get this from environment variable or config file
+            string browser = "chrome";
 
             Driver = browser.ToLower() switch
             {
